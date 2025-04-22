@@ -1,6 +1,6 @@
 # 🧑‍💼 Employee Management System
 
-The **Employee Management System** is a full-stack web application that allows users to manage employee information seamlessly. It supports basic CRUD functionalities—Create, Read, Update, and Delete—using a modern stack of **Next.js (frontend)** and **Spring Boot (backend)**. 
+The **Employee Management System** is a full-stack web application that allows users to manage employee information seamlessly. It supports basic CRUD functionalities Create, Read, Update, and Delete using a modern stack of **Next.js (frontend)** and **Spring Boot (backend)**. 
 
 This system helps organizations to maintain a simplified employee directory and is built with a developer-friendly architecture that emphasizes clarity, performance, and ease of use.
 
