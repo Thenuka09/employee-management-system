@@ -72,7 +72,23 @@ This project was built with guidance and reference from the following resources:
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs/installation/using-vite)
 
+## 📷💻 Screenshots
 
+### 🔍👓 View Employee
+![Image](https://github.com/user-attachments/assets/42f420c7-0137-46cd-a222-8b45b738fd4d)
+
+
+### ✅✔️ Add Employee
+![Image](https://github.com/user-attachments/assets/9d9369db-afe0-45dd-89d1-fb5ffac92c4a)
+
+
+### ↩️ ↪️ Edit Employee
+![Image](https://github.com/user-attachments/assets/bdd88bad-7379-4f8d-a13e-ec169f8b305f)
+![Image](https://github.com/user-attachments/assets/9b58a6b6-f26b-4e40-a2e0-036c7d36c6cf)
+
+
+### 🔴❌ Delete Employee
+![Image](https://github.com/user-attachments/assets/d692868a-2bcc-4e92-9607-cff957b41705)
 
 
 
